@@ -24,16 +24,15 @@ However, when you click on the videos, it is likely to tell you:<br/><b><i> "(So
 
 #### Attempt 2
 
-I plan to have the videos available on my portfolio site, http://www.ormer.net/eductech/, by the time the projects will be presented on Monday.
+The three videos are available for viewing with no Github limits on my portfolio site, http://www.ormer.net/eductech/. The topic is named "STEM103 Python Final Project".
 
-Or, you can view the last two videos below. If there is time to divide the first video into two halves, which is a favorite coding technique, I will post it here.
+Or, you can view the last two videos below. If there is time to divide the first video into pieces, which is a favorite coding technique, I will post it here.
 
-
+Video 2 of 3: Guess Tracking, Math Functions, and The Rules
 
 https://github.com/user-attachments/assets/ecd91c59-3abe-49eb-a783-55d39b173795
 
-
+Video 3 of 3: More Game Play
 
 https://github.com/user-attachments/assets/a031a042-aa53-4012-9f2a-40524898ba4b
-
 
