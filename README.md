@@ -24,9 +24,9 @@ However, when you click on the videos, it is likely to tell you:<br/><b><i> "(So
 
 ### Attempt 2
 
-The three videos are available for viewing with no Github limits on my portfolio site, http://www.ormer.net/eductech/. The topic is named "STEM103 Python Final Project".
+The three videos are available for viewing with no Github limits on my portfolio site, http://www.ormer.net/eductech/. The topic is named "STEM103 Python Final Project". However, there seems to be a 3-minute or 4-minute limit for GitHub, so once again, the first video has been divided into three pieces.
 
-Video 1: Educational Fair Use Law, Developmental Process and Style, Project Architecture,
+### Video 1: Educational Fair Use Law, Developmental Process and Style, Project Architecture,
 The beginnings of GitHub, Code Review, Game Review
 
 #### Video 1, Piece 1 of 3
@@ -42,11 +42,11 @@ https://github.com/user-attachments/assets/0724a2a2-eb06-478a-add3-04885a96e983
 https://github.com/user-attachments/assets/e0876f44-9999-4e28-8e45-d86e4c451a2d
 
 
-#### Video 2 of 3: Guess Tracking, Math Functions, and The Rules
+### Video 2 of 3: Guess Tracking, Math Functions, and The Rules
 
 https://github.com/user-attachments/assets/ecd91c59-3abe-49eb-a783-55d39b173795
 
-#### Video 3 of 3: More Game Play
+### Video 3 of 3: More Game Play
 
 https://github.com/user-attachments/assets/a031a042-aa53-4012-9f2a-40524898ba4b
 
