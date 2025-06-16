@@ -22,29 +22,31 @@ If you can get GitHub to allow you to access the videos as is, more power to you
 However, when you click on the videos, it is likely to tell you:<br/><b><i> "(Sorry about that, but we can’t show files that are this big right now.)"</i></b>.
 <br/><br/>Directly underneath the message, there is a link named $${\color{blue}view\space raw}$$ which should allow you to download the files, whereupon you can view them on your own computer with any player that uses .mp4 files.
 
-#### Attempt 2
+### Attempt 2
 
 The three videos are available for viewing with no Github limits on my portfolio site, http://www.ormer.net/eductech/. The topic is named "STEM103 Python Final Project".
 
-Video 1 Of 3 - Piece 1
+Video 1: Educational Fair Use Law, Developmental Process and Style, Project Architecture,
+The beginnings of GitHub, Code Review, Game Review
+
+#### Video 1, Piece 1 of 3
 
 https://github.com/user-attachments/assets/e709a648-5a1d-4a16-aa22-1273a160652c
 
-Video 1 of 3 - Piece 2
+#### Video 2, Piece 2 of 3
 
 https://github.com/user-attachments/assets/0724a2a2-eb06-478a-add3-04885a96e983
 
-Video 1 of 3 - Piece 3 final piece
-
+####  Video 3, Piece 3 of 3
 
 https://github.com/user-attachments/assets/e0876f44-9999-4e28-8e45-d86e4c451a2d
 
 
-Video 2 of 3: Guess Tracking, Math Functions, and The Rules
+#### Video 2 of 3: Guess Tracking, Math Functions, and The Rules
 
 https://github.com/user-attachments/assets/ecd91c59-3abe-49eb-a783-55d39b173795
 
-Video 3 of 3: More Game Play
+#### Video 3 of 3: More Game Play
 
 https://github.com/user-attachments/assets/a031a042-aa53-4012-9f2a-40524898ba4b
 
