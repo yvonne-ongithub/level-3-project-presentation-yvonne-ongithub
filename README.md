@@ -34,11 +34,11 @@ Video 1 of 3 - Piece 2
 
 https://github.com/user-attachments/assets/0724a2a2-eb06-478a-add3-04885a96e983
 
+Video 1 of 3 - Piece 3 final piece
 
 
+https://github.com/user-attachments/assets/e0876f44-9999-4e28-8e45-d86e4c451a2d
 
-
-Or, you can view the last two videos below. If there is time to divide the first video into pieces, which is a favorite coding technique, I will post it here.
 
 Video 2 of 3: Guess Tracking, Math Functions, and The Rules
 
