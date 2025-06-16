@@ -26,6 +26,18 @@ However, when you click on the videos, it is likely to tell you:<br/><b><i> "(So
 
 The three videos are available for viewing with no Github limits on my portfolio site, http://www.ormer.net/eductech/. The topic is named "STEM103 Python Final Project".
 
+Video 1 Of 3 - Piece 1
+
+https://github.com/user-attachments/assets/e709a648-5a1d-4a16-aa22-1273a160652c
+
+Video 1 of 3 - Piece 2
+
+https://github.com/user-attachments/assets/0724a2a2-eb06-478a-add3-04885a96e983
+
+
+
+
+
 Or, you can view the last two videos below. If there is time to divide the first video into pieces, which is a favorite coding technique, I will post it here.
 
 Video 2 of 3: Guess Tracking, Math Functions, and The Rules
