@@ -26,8 +26,7 @@ However, when you click on the videos, it is likely to tell you:<br/><b><i> "(So
 
 The three videos are available for viewing with no Github limits on my portfolio site, http://www.ormer.net/eductech/. The topic is named "STEM103 Python Final Project". However, there seems to be a 3-minute or 4-minute limit for GitHub, so once again, the first video has been divided into three pieces.
 
-### Video 1: Educational Fair Use Law, Developmental Process and Style, Project Architecture,
-The beginnings of GitHub, Code Review, Game Review
+### Video 1: Educational Fair Use Law, Developmental Process and Style, Project Architecture, The beginnings of GitHub, Code Review, Game Review
 
 #### Video 1, Piece 1 of 3
 
